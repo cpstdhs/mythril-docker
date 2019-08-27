@@ -5,7 +5,3 @@
 ```bash
 $ sudo docker build -t <image-name> .
 ```
-
-```bash
-$ docker pull mythril/myth
-```
